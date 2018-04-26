@@ -1,1 +1,10 @@
 remote_theme: "mmistakes/minimal-mistakes"
+
+name: &name "Clay Dowling"
+
+author:
+        name: *name
+        bio: "Bearded conference junkie."
+        location: "Dexter, MI"
+        email: "clay@lazarusid.com"
+        uri: "http://claydowling.com"
