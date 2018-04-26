@@ -8,3 +8,14 @@ author:
         location: "Dexter, MI"
         email: "clay@lazarusid.com"
         uri: "http://claydowling.com"
+
+
+defaults:
+        # _posts
+        - scope:
+                type: posts
+          values:
+                  layout: single
+                  author_profile: true
+                  share: true
+                  related: true
