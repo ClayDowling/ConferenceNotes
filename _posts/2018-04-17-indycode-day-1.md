@@ -1,5 +1,5 @@
 ---
-title: "Indy.Code() Conference Notes: Day 1"
+title: "Indy.Code() 2018 - Day 1"
 ---
 # Indy.Code Conference Notes
 
