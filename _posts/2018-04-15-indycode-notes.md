@@ -1,3 +1,6 @@
+---
+layout: single
+---
 # Indy.Code Conference Notes
 
 ## How to Transition Leadership Without Pissing Off The Team
