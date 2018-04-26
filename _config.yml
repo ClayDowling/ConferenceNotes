@@ -1,10 +1,15 @@
 remote_theme: "mmistakes/minimal-mistakes"
 
+locale: "en-US"
+title: "Conference Notes"
+title_separator: "-"
+description: "Notes from a conference junkie"
 name: &name "Clay Dowling"
 
 author:
         name: *name
         bio: "Bearded conference junkie."
+        avatar: "clay-with-kronos.jpg"
         location: "Dexter, MI"
         email: "clay@lazarusid.com"
         uri: "http://claydowling.com"
