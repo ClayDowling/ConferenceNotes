@@ -1,5 +1,5 @@
 ---
-layout: single
+title: "Indy.Code() Conference Notes: Day 1"
 ---
 # Indy.Code Conference Notes
 
