@@ -503,4 +503,13 @@ without blocking thread.  Requires more research.
 
 Mike Cole @colemike
 
+Note: These notes are actually hosted on GitHub Pages
 
+Third Party Bits:
+- Disqus
+- FormSpree
+- SnipCart
+
+More advanced setups:
+- CloudCannon
+- Netlify
