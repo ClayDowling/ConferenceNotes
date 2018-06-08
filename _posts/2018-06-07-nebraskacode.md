@@ -2,6 +2,9 @@
 title: "Nebraska Code Notes"
 ---
 
+* Table of Contents
+{:toc}
+
 # Functional Programming & the Path to Zen
 
 Brian Newton
@@ -513,3 +516,11 @@ Third Party Bits:
 More advanced setups:
 - CloudCannon
 - Netlify
+
+Data feature allows us to use liquid filters to serve data up in structured
+ways that function like read-only REST servers.
+
+# Package All The Things
+
+Hyperpolyglot.org - Great resource for figuring out how to get stuff from one language to another.
+
